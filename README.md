@@ -33,13 +33,6 @@ Apasionado por el desarrollo de software y en constante aprendizaje de nuevas te
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=apgtest&show_icons=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=apgtest&layout=compact&theme=tokyonight)
-
----
 
 ## 🌟 Proyectos Destacados
 
