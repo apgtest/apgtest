@@ -42,7 +42,7 @@ Proyecto web demostrativo con HTML y CSS, enfocado en diseño responsive y buena
 ### 🍽️ [Demo Resto Bar](https://github.com/apgtest/demorestobar)
 Sitio web para un restaurante/bar con diseño moderno y atractivo.
 
-### ✅ [Sistema de Validación](https://github.com/apgtest/validarplanificacion)
+### ✅ [Sistema de Validación](https://github.com/apgtest/botonvalidar)
 Herramienta de validación de planificación con JavaScript interactivo.
 
 ---
