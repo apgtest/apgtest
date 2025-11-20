@@ -64,7 +64,7 @@ Herramienta de validación de planificación con JavaScript interactivo.
 
 ## 💡 Frase que me inspira
 
-> "Si el arte interpreta nuestros sueos, ¡el ordenador los ejecuta bajo la apariencia de programas!" - Alan Perlis
+> "Si el arte interpreta nuestros sueños, ¡el ordenador los ejecuta bajo la apariencia de programas!" - Alan Perlis
 
 ---
 
