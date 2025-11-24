@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Ángel Guamán
+# 👋 ¡Hola! Soy Ángel
 
 ## 🎓 Estudiante de  Tecnologías de la Información
 
@@ -39,8 +39,6 @@ Apasionado por el desarrollo de software y en constante aprendizaje de nuevas te
 ### 🌐 [WebDemo](https://github.com/apgtest/webdemo)
 Proyecto web demostrativo con HTML y CSS, enfocado en diseño responsive y buenas prácticas.
 
-### 🍽️ [Demo Resto Bar](https://github.com/apgtest/demorestobar)
-Sitio web para un restaurante/bar con diseño moderno y atractivo.
 
 ### ✅ [Sistema de Validación](https://github.com/apgtest/botonvalidar)
 Herramienta de validación de planificación con JavaScript interactivo.
