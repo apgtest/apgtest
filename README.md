@@ -1,58 +1,69 @@
-# 👋 Hello! I'm Ángel
+# 👋 Hola, soy Ángel Guamán
 
-## 🎓 Information Technology Student
+### 🧠 Desarrollador Junior de Software (en formación)
 
-Passionate about software development and constantly learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **IT**
-- 💻 I love creating projects that solve real problems
-- 📚 Always exploring new technologies and programming best practices
-- 🎯 Goal: Become a professional software developer
+Estudiante de **Ingeniería en Tecnologías de la Información**, enfocado en el desarrollo de lógica de programación y resolución de problemas usando **Python**.  
+Actualmente fortaleciendo mis conocimientos en **Git, bases de datos SQL** y buenas prácticas de desarrollo.
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### CMS
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+## 🚀 En qué estoy enfocado ahora
+- 🐍 Python (fundamentos, lógica, funciones, estructuras básicas)
+- 🔧 Git y GitHub (control de versiones)
+- 🗄️ Bases de datos SQL (consultas básicas)
+- 🧠 Pensamiento lógico y resolución de problemas
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tecnologías y Herramientas
 
-### 🌐 [WebDemo](https://github.com/apgtest/webdemo)
-Demo web project with HTML and CSS, focused on responsive design and best practices.
+**Lenguajes**
+- 🐍 Python (principal)
+- JavaScript (básico)
 
-### ✅ [Validation System](https://github.com/apgtest/botonvalidar)
-Planning validation tool with interactive JavaScript.
+**Control de versiones**
+- Git • GitHub
 
----
+**Bases de datos**
+- SQL básico (SELECT, INSERT, UPDATE)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelpguaman)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelguamanb23@gmail.com)
-
----
-
-## 💡 Quote that Inspires Me
-
-> "If art interprets our dreams, the computer executes them in the guise of programs!" - Alan Perlis
+**Entorno de desarrollo**
+- VS Code • Terminal • Entornos virtuales básicos
 
 ---
 
-⭐️ From [apgtest](https://github.com/apgtest)
+## 📌 Proyectos Destacados
+
+### 🧪 Proyecto en Python – *en desarrollo*
+Proyectos orientados a practicar:
+- Lógica de programación
+- Manejo de datos
+- Estructuración de código
+
+👉 Revisa mis repositorios para ver ejercicios y proyectos en evolución.
+
+---
+
+## 📚 Actualmente aprendiendo
+- Profundización en Python
+- Buenas prácticas de programación
+- Uso básico de APIs y manejo de datos JSON
+- Fundamentos de cloud computing
+
+---
+
+## 🌍 Idiomas
+- Español: Nativo  
+- Inglés: Nivel intermedio en progreso (B1 en formación)
+
+---
+
+## 📫 Contacto
+📍 Ecuador  
+🔗 GitHub: https://github.com/apgtest  
+🔗 LinkedIn: https://www.linkedin.com/in/angelpguaman  
+✉️ Email: angelguamanb23@gmail.com  
+
+---
+
+> *“Aprender todos los días es parte del proceso de crecer como desarrollador.”*
