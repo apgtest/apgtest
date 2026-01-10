@@ -1,7 +1,6 @@
 # 👋 Hola, soy Ángel Guamán
 
-### 🧠 Desarrollador Junior de Software (en formación)
-
+### 🧠 Desarrollador de Software (en formación)
 Estudiante de **Ingeniería en Tecnologías de la Información**, enfocado en el desarrollo de lógica de programación y resolución de problemas usando **Python**.  
 Actualmente fortaleciendo mis conocimientos en **Git, bases de datos SQL** y buenas prácticas de desarrollo.
 
