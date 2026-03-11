@@ -13,15 +13,15 @@ Mi objetivo es seguir creciendo como desarrollador y participar en proyectos que
 # 🚀 Tecnologías y herramientas
 
 ### Lenguajes
-🐍 Python (principal)  
-JavaScript (nivel básico)
+🐍 Python 
+JavaScript
 
 ### Control de versiones
 Git  
 GitHub
 
 ### Bases de datos
-SQL básico  
+SQL  
 (consultas SELECT, INSERT, UPDATE)
 
 ### Entorno de desarrollo
