@@ -1,7 +1,7 @@
 # 👋 Hola, soy Ángel Guamán
 
 💻 **Desarrollador de Software en formación**  
-🎓 Estudiante de **Ingeniería en Tecnologías de la Información** en Ecuador.
+🎓 Estudiante de **Ingeniería en Tecnologías de la Información**.
 
 Me interesa el desarrollo de software orientado a la resolución de problemas mediante programación.  
 Actualmente estoy fortaleciendo mis habilidades en **Python**, control de versiones con **Git** y manejo básico de **bases de datos SQL**, desarrollando proyectos prácticos para mejorar mi lógica de programación y mi forma de estructurar código.
