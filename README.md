@@ -1,68 +1,82 @@
 # 👋 Hola, soy Ángel Guamán
 
-### 🧠 Desarrollador de Software (en formación)
-Estudiante de **Ingeniería en Tecnologías de la Información**, enfocado en el desarrollo de lógica de programación y resolución de problemas usando **Python**.  
-Actualmente fortaleciendo mis conocimientos en **Git, bases de datos SQL** y buenas prácticas de desarrollo.
+💻 **Desarrollador de Software en formación**  
+🎓 Estudiante de **Ingeniería en Tecnologías de la Información** en Ecuador.
+
+Me interesa el desarrollo de software orientado a la resolución de problemas mediante programación.  
+Actualmente estoy fortaleciendo mis habilidades en **Python**, control de versiones con **Git** y manejo básico de **bases de datos SQL**, desarrollando proyectos prácticos para mejorar mi lógica de programación y mi forma de estructurar código.
+
+Mi objetivo es seguir creciendo como desarrollador y participar en proyectos que me permitan aplicar y ampliar mis conocimientos en el mundo real.
 
 ---
 
-## 🚀 En qué estoy enfocado ahora
-- 🐍 Python (fundamentos, lógica, funciones, estructuras básicas)
-- 🔧 Git y GitHub (control de versiones)
-- 🗄️ Bases de datos SQL (consultas básicas)
-- 🧠 Pensamiento lógico y resolución de problemas
+# 🚀 Tecnologías y herramientas
+
+### Lenguajes
+🐍 Python (principal)  
+JavaScript (nivel básico)
+
+### Control de versiones
+Git  
+GitHub
+
+### Bases de datos
+SQL básico  
+(consultas SELECT, INSERT, UPDATE)
+
+### Entorno de desarrollo
+VS Code  
+Terminal  
+Entornos virtuales básicos
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+# 📌 Proyectos
 
-**Lenguajes**
-- 🐍 Python (principal)
-- JavaScript (básico)
+Actualmente desarrollo proyectos en Python enfocados en fortalecer la lógica de programación y la gestión de datos.
 
-**Control de versiones**
-- Git • GitHub
+Algunos de los proyectos que puedes encontrar en mis repositorios incluyen:
 
-**Bases de datos**
-- SQL básico (SELECT, INSERT, UPDATE)
+📦 **Sistema de Gestión de Inventario**  
+Aplicación desarrollada en Python que permite registrar y gestionar productos.
 
-**Entorno de desarrollo**
-- VS Code • Terminal • Entornos virtuales básicos
+📋 **Administrador de Tareas**  
+Proyecto en Python para organizar y gestionar tareas utilizando estructuras de datos.
 
----
+📅 **Sistema de Reservas**  
+Aplicación para registrar y administrar reservas mediante lógica de programación.
 
-## 📌 Proyectos Destacados
+🧮 **Calculadora Avanzada**  
+Programa en Python para realizar operaciones matemáticas con validación de datos.
 
-### 🧪 Proyecto en Python – *en desarrollo*
-Proyectos orientados a practicar:
-- Lógica de programación
-- Manejo de datos
-- Estructuración de código
-
-👉 Revisa mis repositorios para ver ejercicios y proyectos en evolución.
+Puedes revisar todos mis proyectos aquí:  
+👉 https://github.com/apgtest
 
 ---
 
-## 📚 Actualmente aprendiendo
-- Profundización en Python
-- Buenas prácticas de programación
-- Uso básico de APIs y manejo de datos JSON
-- Fundamentos de cloud computing
+# 📚 Actualmente aprendiendo
+
+📌 Mejores prácticas de desarrollo en Python  
+📌 Uso básico de APIs y manejo de datos JSON  
+📌 Profundización en control de versiones con Git  
+📌 Fundamentos de cloud computing
 
 ---
 
-## 🌍 Idiomas
-- Español: Nativo  
-- Inglés: Nivel intermedio en progreso (B1 en formación)
+# 🌍 Idiomas
+
+Español — Nativo  
+Inglés — Intermedio en progreso (B1)
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
+
 📍 Ecuador  
 🔗 GitHub: https://github.com/apgtest  
 🔗 LinkedIn: https://www.linkedin.com/in/angelpguaman  
-✉️ Email: angelguamanb23@gmail.com  
+✉️ Email: angelguamanb23@gmail.com
 
 ---
 
-> *“Aprender todos los días es parte del proceso de crecer como desarrollador.”*
+⭐ *Creo que la mejor forma de aprender programación es construyendo proyectos y mejorándolos continuamente.*
