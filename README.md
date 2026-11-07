@@ -1,49 +1,46 @@
-# Python Developer | Automation & Data
+# Hi, I'm Ángel 
 
-IT Engineering student focused on Python, process automation, and data handling.
+**IT Engineering Student | IT Support, Networking & Automation**  
+Focused on Network Fundamentals, Technical Support, and Process Automation using Python. Hands-on experience building practical labs and diagnostic workflows.
 
-I build practical solutions to automate repetitive tasks, work with data, and improve efficiency using Python.
+---
 
-## 🚀 What I Do
-- Automate repetitive tasks using Python
-- Work with data (CSV, Excel, basic databases)
-- Build simple and structured applications
-- Use GitHub for version control from the first commit
+###  Technical Focus & Skills
+- **IT Support & Networking:** Troubleshooting (L1/L2), TCP/IP & OSI Model, IPv4/IPv6, DHCP/DNS, VirtualBox/VMware, Cisco Packet Tracer.
+- **Development & Automation:** Python (Data handling & scripting), SQL (Basic CRUD operations), Bash, Git & GitHub.
+- **Operating Systems & Tools:** Windows 10/11 & Server basics, Linux terminal, VS Code.
 
-## 🛠️ Technologies
-- Python
-- SQL (basic queries: SELECT, INSERT, UPDATE)
-- Git & GitHub
-- VS Code
-- Basic Linux & terminal usage
+---
 
-## 📂 Projects
-Here are some of my projects:
+### Featured Labs & Projects
 
-- 📦 **Inventory Management System**  
-  Manages products and stock using Python logic.
+####  Infrastructure & Networking
+-  **[soporte-red-01](https://github.com/apgtest/soporte-red-01):** Network Troubleshooting Lab — DHCP failure simulation, APIPA address analysis, and local stack verification (Loopback / VirtualBox).
 
-- 📋 **Task Manager**  
-  Organizes tasks using data structures.
+#### Python & Automation
+-  **Inventory Management System:** Python-based logic for product and stock management.
+-  **Task Manager:** Console application organizing tasks using core data structures.
+-  **Reservation System:** Booking logic implementation with structured data handling.
+-  **Calculator:** CLI arithmetic engine with full input validation.
 
-- 📅 **Reservation System**  
-  Handles booking records with structured logic.
+ **All Repositories:** https://github.com/apgtest
 
-- 🧮 **Calculator**  
-  Performs operations with input validation.
+---
 
-👉 More projects: https://github.com/apgtest
+###  Currently Learning & Improving
+- Network Infrastructure & Routing Fundamentals (Cisco Packet Tracer / Labs)
+- Cybersecurity & System Hardening
+- Python & SQL integration for IT tasks automation
 
-## 📈 Currently Improving
-- SQL + Python integration (SQLite)
-- Data automation with Python
-- Linux fundamentals
+---
 
-## 🌍 Languages
-- Spanish: Native  
-- English: Intermediate (B1)
+###  Languages
+- **Spanish:** Native
+- **English:** A2 - B1 (Technical Reading & Documentation)
 
-## 📫 Contact
-📍 Ecuador  
-🔗 LinkedIn: https://www.linkedin.com/in/angelpguaman  
-✉️ Email: angelguamanb23@gmail.com
+---
+
+##  Contact
+ Ecuador  
+ LinkedIn: https://www.linkedin.com/in/angelpguaman  
+ Email: angelguamanb23@gmail.com
